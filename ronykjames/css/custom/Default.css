@@ -1,0 +1,521 @@
+﻿/*BANNER STYLE START HERE */
+body {
+    font-family: 'Roboto',sans-serif !important;
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid #ddd
+}
+
+.pt-120 {
+    padding-top: 120px;
+}
+
+.ft-logo {
+    font-size: 2.5rem;
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .phonecolor {
+        font-size: 0.8rem
+    }
+    .ft-logo {
+        font-size: 1rem;
+        
+    }
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: .3rem;
+        padding-left: .3rem;
+        font-size: 0.8rem;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .pt-120 {
+        padding-top: 105px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 576px) {
+    .DoctorStepsOfComfort .card {
+        min-width: 218px;
+        min-height: 250px;
+    }
+}
+
+/*@media only screen and (max-width: 767px) and (min-width: 576px) {
+    .DoctorStepsOfComfort .card {
+        min-width: 203px;
+        min-height: 250px;
+    }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 576px) {
+}*/
+
+
+@media only screen and (max-width: 767px) {
+    .pt-120 {
+        padding-top: 75px;
+    }
+
+    .ft-logo {
+        font-size: 1.5rem;
+    }
+    .pt-120 {
+        padding-top: 80px;
+    }
+}
+
+#HomepageBannerSlider .Home-Banner-bg {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Bannerheadertext {
+    text-align: center;
+    line-height: 3.5rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.BannerSubheadertext {
+    text-align: center;
+    line-height: 3.5rem;
+    font-size: 2.5em;
+    font-weight: 100;
+}
+
+.BannerSubheaderNametext {
+    font-weight: bold;
+}
+
+.BannerUspSubheadertext {
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+/*BANNER STYLE END HERE */
+
+/*Profile Section style Start here */
+
+.profileDrName {
+    font-size: 2rem;
+}
+
+.ProfileDrDesc {
+    font-size: 1rem;
+}
+
+.profileBottomHead {
+    font-size: 2.5rem;
+}
+
+.profileBottomTitle {
+    font-size: 1.75rem;
+}
+
+@media only screen and (max-width: 767px) {
+    .profileBottomHead {
+        font-size: 1.75rem;
+        line-height: 2.5rem;
+    }
+
+    .profileBottomTitle {
+        font-size: 1.25rem;
+        line-height: 2rem;
+    }
+
+    .sm-auto {
+        margin: auto;
+    }
+    .footerfont {
+        font-size: .8rem;
+    }
+}
+
+.DoctorStepsOfComfort .card h4 {
+   
+    font-size: 1.1em;
+}
+
+.DoctorStepsOfComfort .card p {
+    font-size: 1.0em;
+    padding-top: 10px;
+}
+
+.DoctorStepsOfComfort .card img {
+    width: 50px;
+}
+
+.testimonial-block {
+    min-height: 395px;
+}
+
+@media only screen and (max-width: 767px) {
+    .testimonial-block {
+        min-height: initial;
+    }
+}
+
+
+.testimonial-block-Head {
+    font-size: 1.5rem;
+}
+
+.testimonial-block-Title {
+    font-size: 1rem;
+}
+
+.ContactUs-block-Head {
+    font-size: 2rem;
+}
+
+.Word_Split {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+
+/*COVID INFORMATION LIST PAGE STYLE START HERE*/
+.Covid-19-InformationHeading .Covid-19-subheading {
+    color: #202020;
+    font-size: 1rem;
+}
+
+.Covid-19-Information .Covid-19-InformationHeading {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 1rem;
+}
+
+.CovidInformationListSection .table-bordered td:hover,
+.CovidInformationListSection .table-bordered th:hover {
+    background: #3aa0d1;
+    color: white;
+}
+
+.CovidInformationListSection .table-bordered td,
+.CovidInformationListSection .table-bordered th {
+    border: 1px solid #dee2e6;
+    background: #f2f2f2;
+}
+/*COVID INFORMATION LIST Page STYLE START HERE*/
+/*Homeoapthy page style start here*/
+.whatisHomeopathyHeaderSection {
+}
+
+.whaishomeopathyNavsection .FHeading {
+    min-height: 47px;
+    background: #DADFE1;
+    text-align: left;
+    /* position: fixed; */
+    width: 100%;
+}
+
+.whaishomeopathyNavsection #lbl_Menu {
+    color: #292f33;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top: 12px;
+    padding-left: 15px;
+}
+
+.whaishomeopathyNavsection .Ftest {
+    width: 25px;
+    cursor: pointer;
+}
+
+    .whaishomeopathyNavsection .Ftest:after {
+        content: '\2807';
+        font-size: 1.9em;
+        color: #292f33;
+        float: right !important;
+        padding-top: 3px;
+        padding-right: 12px;
+    }
+
+.whaishomeopathyNavsection .featurenav > li > a {
+    position: relative;
+    line-height: 10px;
+    overflow-y: auto;
+    white-space: nowrap;
+}
+
+.whaishomeopathyNavsection .nav > li > a {
+    padding: 10px;
+}
+
+.whaishomeopathyNavsection .nav > li > a {
+    padding: 10px 6px;
+}
+
+.whaishomeopathyNavsection .nav > li,
+.whaishomeopathyNavsection .nav > li > a {
+    display: block;
+    position: relative;
+}
+
+.whaishomeopathyNavsection .menu ul li {
+    padding: 5px 0;
+}
+
+.whaishomeopathyNavsection .nav > li,
+.whaishomeopathyNavsection .nav > li > a {
+    display: block;
+    position: relative;
+}
+
+.whaishomeopathyNavsection .FeaturesDD {
+    position: relative;
+    
+    color: #000;
+}
+
+.whaishomeopathyNavsection .nav {
+    display: -ms-inline-grid;
+    display: grid;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.whaishomeopathyNavsection .menu ul {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.whaishomeopathyNavsection .menu {
+    top: 115px;
+    overflow: auto;
+}
+
+.whaishomeopathyNavsection .scrollbar {
+    float: left;
+    overflow-y: auto;
+    -webkit-box-shadow: none;
+    margin-bottom: 25px;
+}
+
+.whaishomeopathyNavsection .menu {
+    padding: 10px;
+}
+
+.whaishomeopathyNavsection .menu {
+    display: none;
+    /* min-width: 260px; */
+    background-color: #fff;
+    border: 1px solid silver;
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    /* position: fixed; */
+    /* top: 560px; */
+    width: 100%;
+    /* overflow: auto; */
+}
+
+.whaishomeopathyNavsection .FHeading,
+.whaishomeopathyNavsection .menu {
+    right: 0;
+    z-index: 2;
+}
+/*Homeoapthy page style start here*/
+.Detailsrowpadding {
+    padding: 20px 0px 20px 0px;
+}
+/*.DoctorProfileDetailsPage .row {
+    border: 1px solid #ccc;
+}*/
+.DoctorProfileSuccessStoryDiv .tdQualDivImg {
+    vertical-align: top;
+    width: 10%;
+}
+
+.DoctorProfileSuccessStoryDiv .tdQualDivContent {
+    width: 57%;
+}
+
+
+.AffiliateDoctorProfileCtr {
+    padding-top: 20px;
+}
+
+.SelfAssessmentMenu {
+    color: red;
+}
+
+.newdefaultlayout-menu #SelfAssesment {
+    cursor: pointer !important;
+    margin-top: 20px !important;
+    border-bottom: 1px solid !important;
+    margin-bottom: 20px;
+}
+
+    .newdefaultlayout-menu #SelfAssesment a {
+        color: red;
+    }
+
+
+
+.newdefaultlayout-menu li.active {
+    font-weight: bold !important;
+    color: #424242 !important;
+    border-bottom: 1px solid #b6ff00;
+}
+
+@media only screen and (max-width: 970px) {
+    .AffiliateDoctorProfileCtr .newdefaultlayout-menu {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .AffiliateDoctorProfileCtr .blinkDiv {
+        margin-top: 20px;
+    }
+
+    .newdefaultlayout-menu .GotoCovidInfoDivMenu {
+        cursor: pointer !important;
+        padding-bottom: 10px;
+        border-bottom: 1px solid;
+    }
+}
+
+
+
+.covidfaq .bg-secondary {
+    background-color: #ddd !important;
+}
+
+
+.support-que-type {
+    font-weight: bold;
+    color: #636466;
+    position: relative;
+}
+
+.ContactDetailPageCtr {
+    padding-top: 30px;
+}
+
+.testimonial-head {
+    font-size: 2.0em;
+}
+
+/**menu overlay*/
+.Resmenu.modal.left .modal-dialog {
+    width:285px;
+    height: 100%;
+    -webkit-transform: translate3d(0%, 0, 0);
+    -ms-transform: translate3d(0%, 0, 0);
+    -o-transform: translate3d(0%, 0, 0);
+    transform: translate3d(0%, 0, 0);
+}
+.Resmenu modal-body {
+    height: calc(60vh - 138px);
+}
+.Resmenu .modal.left .modal-content {
+    overflow-y: auto;
+}
+
+.Resmenu .modal.left.fade .modal-dialog {
+    left: -285px;
+    -webkit-transition: opacity 0.3s linear, left 0.3s ease-out;
+    -moz-transition: opacity 0.3s linear, left 0.3s ease-out;
+    -o-transition: opacity 0.3s linear, left 0.3s ease-out;
+    transition: opacity 0.3s linear, left 0.3s ease-out;
+}
+
+.Resmenu .modal.left.fade.show .modal-dialog {
+    left: 0;
+}
+
+/* ----- MODAL STYLE ----- */
+.Resmenu .modal-content {
+    border-radius: 0;
+    border: none;
+}
+
+.Resmenu .modal-header {
+    border-bottom-color: #eeeeee;
+    background-color: #fafafa;
+}
+.Resmenu .btn-cross {
+    position: absolute;
+    right: -265px;
+    background: transparent;
+    color: gray;
+    border: 0;
+    font-size: 1.5rem;
+    top: -13px;
+}
+.Resmenu.btn-div-pos {
+    position: absolute;
+}
+.Homeopathy_Title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #646466 !important;
+    margin: 15px 0;
+}
+.Homeopathy_Desc {
+    background-color: #DCF1FC;
+    border: 1px solid MediumTurquoise;
+    padding: 2% 1%;
+    font-size: 1.05em;
+}
+.blogo a{
+text-decoration:none;
+}
+
+
+.ProfileDrQuali{
+    min-height:275px;
+}
+
+/*Healthplan INFORMATION LIST PAGE STYLE START HERE*/
+.HealthPlan-InformationHeading {
+    
+    font-size: 1rem;
+}
+
+.w-30{
+width:30%;
+}
+
+.btnnextcolor  {
+    background: #782d2a;
+    color: #fff;
+}
+
+.trcolor .table-bordered th {
+    background: #646466;
+    color: #fff;
+}
+
+    .trcolor .table-bordered td, .trcolor .table-bordered th {
+        border: 1px solid #202020;
+    }
+
+
+.field-validation-error{
+    color:red;
+}
+.TreatmentPlanAddMember{
+    cursor:pointer;
+}
+

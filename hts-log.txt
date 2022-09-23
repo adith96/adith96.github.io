@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Sep 2022 11:46:59 at http://drmadhurahomoeoclinic.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://drmadhurahomoeoclinic.com/ -O1 "C:\My Web Sites\medapp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:48:37	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Scripts/jquery.unobtrusive-ajax.min.js (from drmadhurahomoeoclinic.com/)
+
+11:48:37	Warning: 	Retry after error 500 (Internal Server Error) at link drmadhurahomoeoclinic.com/Media/getAffiliateCityName (from drmadhurahomoeoclinic.com/Registration)
+
+11:48:37	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/bundles/js/jqueryval (from drmadhurahomoeoclinic.com/Registration)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/vendor/isotope-layout/isotope.pkgd.min.js (from drmadhurahomoeoclinic.com/Gallery)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/vendor/icofont/icofont.min.css (from drmadhurahomoeoclinic.com/Gallery)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/vendor/boxicons/css/boxicons.min.css (from drmadhurahomoeoclinic.com/Gallery)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/vendor/remixicon/remixicon.css (from drmadhurahomoeoclinic.com/Gallery)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/vendor/owl.carousel/owl.carousel.min.js (from drmadhurahomoeoclinic.com/Gallery)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/drmadhurahomoeoclinic.com (from drmadhurahomoeoclinic.com/Contact)
+
+11:49:39	Warning: 	Retry after error 500 () at link drmadhurahomoeoclinic.com/Media/getAffiliateCityName (from drmadhurahomoeoclinic.com/Registration)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Covid-information/css/custom/Theme3.css (from drmadhurahomoeoclinic.com/Covid-information/Overview)
+
+11:49:39	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Covid-information/Registration (from drmadhurahomoeoclinic.com/Covid-information/Overview)
+
+11:49:47	Error: 	"Not Found" (404) at link drmadhurahomoeoclinic.com/Assets/images/Respiratory system-4.jpg (from drmadhurahomoeoclinic.com/Covid-information/Respiratory-Symptoms)
+
+11:49:48	Error: 	"" (500) after 2 retries at link drmadhurahomoeoclinic.com/Media/getAffiliateCityName (from drmadhurahomoeoclinic.com/Registration)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 49 seconds : 116 links scanned, 101 files written (4593041 bytes overall) [4558850 bytes received at 26975 bytes/sec], 1358737 bytes transferred using HTTP compression in 39 files, ratio 93%
+
+(12 errors, 2 warnings, 0 messages)
+

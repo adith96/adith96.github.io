@@ -1,0 +1,325 @@
+﻿.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:active {
+    color: #303e9f;
+}
+.CovidInfoTable .table-bordered td, .CovidInfoTable .table-bordered th {
+    border: 1px solid #dee2e6;
+    background: #f2f2f2;
+}
+.gallery #gallery-flters li:hover, .gallery #gallery-flters li.filter-active {
+            color: #5d91fb;
+        }
+    .CovidInfoTable .table-bordered td:hover, .CovidInfoTable .table-bordered th:hover {
+        border: 1px solid #303e9f;
+        background: #303e9f;
+        color: #202020;
+    }
+
+    .CovidInfoTable .table-bordered td a, .CovidInfoTable .table-bordered th a {
+        color: #202020;
+    }
+
+        .CovidInfoTable .table-bordered td a:hover, .CovidInfoTable .table-bordered th a:hover {
+            color: #fff;
+        }
+
+.bluebullet ul li::before {
+    content: "\2022";
+    color: #303e9f;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    font-size: 18px;
+    margin-left: -1.8em;
+}
+
+.BrandLogo {
+    background-image: url(../../Assets/images/Theme3/Logo.png);
+    display: inline-block;
+}
+
+.sprite-index-3 {
+    width: 60px;
+    height: 60px;
+    background-position: 0 0;
+}
+
+.btnstartTreatment {
+    background: #5d91fb;
+    color: #fff !important;
+    border: 1px solid #5d91fb
+}
+
+    .btnstartTreatment:hover, .btnstartTreatment:active, .btnstartTreatment:focus {
+        background: #5d91fb;
+        color: #fff;
+        border: 1px solid #5d91fb
+    }
+
+.phonecolor {
+    color: #202020 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #646464;
+}
+
+.btnlogin {
+    color: #303e9f !important;
+    border: 1px solid #303e9f
+}
+
+    .btnlogin:hover, .btnlogin:active, .btnlogin:focus {
+        color: #303e9f !important;
+        border: 1px solid #303e9f;
+        background:transparent;
+    }
+.navbar a:hover {
+    text-decoration: none;
+}
+/*BANNER STYLE START HERE */
+#HomepageBannerSlider {
+    background: url(../../Assets/images/Theme3/Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 500px;
+}
+
+.Bannerheadertext {
+    color: #ffffff;
+}
+
+.BannerSubheadertext {
+    color: #ffffff;
+}
+
+.BannerSubheaderNametext {
+    color: #5d91fb;
+}
+
+.BannerUspSubheadertext {
+    color: #ffffff;
+}
+
+.BannerHeaderButton {
+    background-color: #5d91fb;
+    color: #ffffff;
+}
+/*BANNER STYLE END HERE */
+
+
+.profileDrName {
+    color: #000000;
+}
+
+.ProfileDrDesc {
+    color: #000000;
+}
+
+.ProfileDrQuali {
+    background: #303e9fc7;
+    color: #ffffff;
+}
+
+
+.profileBottomHead {
+    color: #202020;
+}
+
+.profileBottomTitle {
+    color: #909090;
+}
+
+
+/*Doctor Steps Of Comfort Section style Start here */
+
+.DoctorStepsOfComfort {
+    color: #ffffff;
+}
+
+    .DoctorStepsOfComfort .card {
+        background-color: #5d91fb;
+    }
+
+.DoctorStepsSignup {
+    background-image: url(../../Assets/images/Theme3/Sign-up.png);
+    display: block;
+}
+
+.DoctorStepsConsultation {
+    background-image: url(../../Assets/images/Theme3/Consultation.png);
+    display: block;
+}
+
+.DoctorStepsGetMedicines {
+    background-image: url(../../Assets/images/Theme3/Get-Medicines.png);
+    display: block;
+}
+
+.DoctorStepsRegularFollowups {
+    background-image: url(../../Assets/images/Theme3/Regular-Followup.png);
+    display: block;
+}
+
+.sprite-index-2 {
+    width: 50px;
+    height: 50px;
+    background-position: 0 0;
+}
+
+.DoctorTestimonialsDetailSection {
+    background-color: #303e9fc7;
+    color: #ffffff;
+}
+
+.TestimonailHead {
+    color: #ffffff;
+}
+
+.testimonial-block {
+    background: #ffffff;
+    color: #202020;
+}
+
+
+
+
+/*Doctor Contact Section style Start here */
+
+.DoctorContactSection {
+    font-family: 'Roboto',sans-serif !important;
+    padding-bottom: 70px;
+}
+
+    .DoctorContactSection .row div h2 {
+        padding-bottom: 20px;
+    }
+
+    .DoctorContactSection .AddressDetailsDiv {
+        padding-left: 40px;
+    }
+
+        .DoctorContactSection .AddressDetailsDiv table tr td:nth-of-type(1) {
+            padding: 10px;
+        }
+
+        .DoctorContactSection .AddressDetailsDiv table tr td:nth-of-type(2) {
+            padding: 10px;
+            font-size: 1.5em;
+        }
+
+            .DoctorContactSection .AddressDetailsDiv table tr td:nth-of-type(2) a {
+                color: #202020;
+            }
+/*Doctor Contact Section style End here */
+
+/*Doctor Profile Details Page style Start here */
+.DetailsQualDivImg {
+    background-image: url(../../Assets/images/Theme3/Education-Icon.png);
+    display: block;
+}
+
+.DetailsQualSpecialDivImg {
+    background-image: url(../../Assets/images/Theme3/Specialties-Icon.png);
+    display: block;
+}
+
+.sprite-index-1 {
+    width: 60px;
+    height: 60px;
+    background-position: 0 0;
+}
+.DetailsEducationimg {
+    background-image: url(../../Assets/images/Theme3/Education-Icon-30.png);
+    display: block;
+}
+
+.DetailsSpecilityImg {
+    background-image: url(../../Assets/images/Theme3/Specialties-Icon-30.png);
+    display: block;
+}
+
+.sprite-30 {
+    width: 30px;
+    height: 30px;
+    background-position: 0 0;
+}
+
+
+
+.ProfileDrQuali .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
+
+
+
+
+/*Doctor Profile Details Page style End here*/
+.Covid-19-InformationHeading h2 {
+    color: #5d91fb;
+}
+/**/
+
+
+/*Homeopathy  page   start*/
+.Homeopathy_Title {
+    color: #5d91fb !important;
+}
+/*Homeopathy  page   end*/
+
+
+/*testimonial  page   start*/
+.testimonial-head {
+    color: #5d91fb !important;
+}
+
+/*testimonial  page   end*/
+
+
+/*faq  page   start*/
+.support-que-type {
+    color: #5d91fb !important;
+}
+
+/*faq  page   end*/
+.HealthPlan-InformationHeading h4 {
+    color: #5d91fb;
+}
+
+.btnnextcolor {
+    background: #5d91fb;
+    color: #fff;
+}
+
+.trcolor .table-bordered th {
+    background: #5d91fb;
+    color: #fff;
+}
+
+.emp-consultation {
+    background: #5d91fb;
+    border: 1px solid #5d91fb;
+}
+#LoginForm .LoginControl-main {
+    border: 1px solid #303e9f;
+}
+#LoginForm .LoginControl-SignIn {
+    border-bottom: 1px solid #303e9f;
+}
+.ForgotPassword-Title {
+    border-bottom: 1px solid #303e9f;
+}
+.ForgotPassword-main {
+    border: 1px solid #303e9f;
+}
+.ForgotPassword-SubTitle {
+    border-bottom: 1px solid #303e9f;
+}
+.Acknowledgement .row div .Acknowledgement-Thank-you {
+    border-bottom: 1px solid #303e9f;
+}
+.AffiliatePatThankyou .row table tr .MenuHeader {
+    background-color: #303e9f;
+}
